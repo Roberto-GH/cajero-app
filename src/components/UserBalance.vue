@@ -1,8 +1,8 @@
 <!-- TEMPLATE representa el html (estrucuctura)-->
 <template>
   <div id="UserBalance">
-    <h2>{{ username }}</h2>
-    <h2>Tu saldo es: <span> {{ balance }} COP </span></h2>
+    <h2>{{username}}</h2>
+    <h2>Tu saldo es: <span> {{balance}} COP </span></h2>
   </div>
 </template>
 
