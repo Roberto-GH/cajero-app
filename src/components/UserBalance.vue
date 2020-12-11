@@ -26,7 +26,7 @@ export default {
       })
       .catch((error) => {
         alert("ERROR Servidor");
-      });
+      }));
   },
 };
 </script>
